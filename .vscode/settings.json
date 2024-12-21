@@ -1,0 +1,8 @@
+{
+    "python.analysis.extraPaths": [
+        "./mp13031-",
+        "./mp13031-",
+        "./mp13031-",
+        "./mp13031_"
+    ]
+}
